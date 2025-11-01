@@ -1,1 +1,1 @@
-# Solve-Me-First2
+# Solve-Me-First2 This C# program reads two integers from the console, passes them to the `solveMeFirst` function, and prints their sum. The `solveMeFirst` function is intended to return the sum of the two input integers, though the return statement is currently missing.
